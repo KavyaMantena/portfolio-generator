@@ -9,8 +9,11 @@ A website that is built to see a ones personal portfolio which provides the desc
 * JavaScript
 * Node.js
 
-# Website
-https://kavyamantena.github.io/portfolio-generator/
+## Website
+Since this is a Node.js application that runs from a machine and not a broswer, we can't depoly this to GitHub Pages. If anyone ever wants to look at the application, Please clone it to their own local machine and run it your local machine.
+
+## Link
+Link to githbub page.
 
 <img src="file:///Users/newtechkn/Desktop/projects/portfolio-generator/dist/index.html">
 <img src="file:///Users/newtechkn/Desktop/projects/portfolio-generator/dist/index.html">
