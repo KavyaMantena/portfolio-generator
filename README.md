@@ -10,3 +10,7 @@ A website that is built to see a ones personal portfolio which provides the desc
 * Node.js
 
 # Website
+https://kavyamantena.github.io/portfolio-generator/
+
+<img src="file:///Users/newtechkn/Desktop/projects/portfolio-generator/dist/index.html">
+<img src="file:///Users/newtechkn/Desktop/projects/portfolio-generator/dist/index.html">
